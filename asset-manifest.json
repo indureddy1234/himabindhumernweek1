@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vaishnavi_mernstack/static/css/main.5c0fdf82.css",
-    "main.js": "/vaishnavi_mernstack/static/js/main.c011984b.js",
-    "static/js/592.7191424f.chunk.js": "/vaishnavi_mernstack/static/js/592.7191424f.chunk.js",
-    "index.html": "/vaishnavi_mernstack/index.html",
-    "main.5c0fdf82.css.map": "/vaishnavi_mernstack/static/css/main.5c0fdf82.css.map",
-    "main.c011984b.js.map": "/vaishnavi_mernstack/static/js/main.c011984b.js.map",
-    "592.7191424f.chunk.js.map": "/vaishnavi_mernstack/static/js/592.7191424f.chunk.js.map"
+    "main.css": "/himabindhumernweek1/static/css/main.5c0fdf82.css",
+    "main.js": "/himabindhumernweek1/static/js/main.14fe09f3.js",
+    "static/js/592.7191424f.chunk.js": "/himabindhumernweek1/static/js/592.7191424f.chunk.js",
+    "index.html": "/himabindhumernweek1/index.html",
+    "main.5c0fdf82.css.map": "/himabindhumernweek1/static/css/main.5c0fdf82.css.map",
+    "main.14fe09f3.js.map": "/himabindhumernweek1/static/js/main.14fe09f3.js.map",
+    "592.7191424f.chunk.js.map": "/himabindhumernweek1/static/js/592.7191424f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c0fdf82.css",
-    "static/js/main.c011984b.js"
+    "static/js/main.14fe09f3.js"
   ]
 }
